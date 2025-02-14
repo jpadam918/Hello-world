@@ -1,8 +1,14 @@
-# Hello-world
-BAIS seminar repository
-## First Heading
-### Second Heading
-**Let's try bold**
+## Table of contents
+
+- [PROJECT TITLE](#Project-Title)
+- [DESCRIPTION](#Description)
+- [HOW TO RUN PROGRAM](#How-to-run-program)
+- [ADDITIONAL DOCUMENTATION](#additional-documentation)
+- [VERSIONING](#versioning)
+- [NEW TITLE](#New-title)
 
 
-*How about italics*
+
+## Project Title
+
+"Hellow World Sample" 
