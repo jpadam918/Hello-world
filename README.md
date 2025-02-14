@@ -20,4 +20,7 @@ This is for my BAIS seminar. I'm practicing how to use github. This is a fake pr
 ## How to run program
 print("Hello World")
 
+-bullet
+--bullet
+
 
