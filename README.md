@@ -4,7 +4,7 @@
 - [DESCRIPTION](#Description)
 - [HOW TO RUN PROGRAM](#How-to-run-program)
 - [ADDITIONAL DOCUMENTATION](#Additional-Documentation)
-- [VERSIONING](#Versioning)
+- [BOLD](#Bold)
 - [NEW TITLE](#New-title)
 
 
@@ -22,5 +22,9 @@ print("Hello World")
 
 ## Additional Documentation
 *This whole text is going to be in Italic. I have no documents to put here*
+
+
+## Bold
+** I'm writing this text in bold to demonstrate I know how to do it** 
 
 
