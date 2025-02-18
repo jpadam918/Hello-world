@@ -3,8 +3,8 @@
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
 - [HOW TO RUN PROGRAM](#How-to-run-program)
-- [ADDITIONAL DOCUMENTATION](#additional-documentation)
-- [VERSIONING](#versioning)
+- [ADDITIONAL DOCUMENTATION](#Additional-Documentation)
+- [VERSIONING](#Versioning)
 - [NEW TITLE](#New-title)
 
 
@@ -19,5 +19,8 @@ This is for my BAIS seminar. I'm practicing how to use github. This is a fake pr
 
 ## How to run program
 print("Hello World")
+
+## Additional Documentation
+*This whole text is going to be in Italic. I have no documents to put here*
 
 
