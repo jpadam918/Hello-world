@@ -25,6 +25,8 @@ print("Hello World")
 
 
 ## Bold
-** I'm writing this text in bold to demonstrate I know how to do it** 
+**I'm writing this text in bold so I can demonstrate I know how to do it**
+
+
 
 
