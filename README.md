@@ -15,7 +15,7 @@
 
 
 ## Description
-This is for my BAIS seminar. I'm practicing how to use github. This is a fake project. 
+This is for my **BAIS Seminar**. I'm practicing how to use github. This is a *fake* project. 
 
 ## How to run program
 print("Hello World")
